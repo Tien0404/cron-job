@@ -1,0 +1,1 @@
+curl https://admin-vgbc.onrender.com/
